@@ -1,0 +1,28 @@
+html {
+    display: flex;
+    background-image: linear-gradient(to left,#00008fdc, #1CB5E0);
+}
+
+a:visited{
+    color: rgb(219, 219, 219);
+    
+}
+
+a:hover{
+    color:rgb(255, 251, 0)
+}
+
+.links{
+    width: 70px;
+    position: relative;
+    right: 25px;
+    font-size: 0.75rem;
+    color: black;
+    background-color: rgb(0, 162, 255);
+    padding: 10px;
+    margin: 2px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgba(255, 251, 0, 0.459);
+}
